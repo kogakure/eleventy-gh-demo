@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 10px 8px;
   font-size: 19px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media screen and (min-width: 768px) {
@@ -22,7 +22,7 @@ header {
   align-items: center; /* Vertically align */
   padding: 5px 16px;
   color: white;
-  background-color: #0747A6;
+  background-color: #0747a6;
   border-radius: 8px;
 }
 
@@ -50,7 +50,7 @@ header > a:hover {
 
 main {
   padding: 5px 16px;
-  word-wrap:break-word;
+  word-wrap: break-word;
 }
 
 footer {
@@ -62,7 +62,7 @@ footer {
 
 h1,
 h2 {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   margin: 25px 0 2px 0;
 }
 
